@@ -8,19 +8,29 @@ This project builds on the synthetically generated dataset and model architectur
 # Prerequisites
 
 Python 3+
+
 pip 
  
  # Packages 
  
  Keras 
+ 
 tensorflow==1.4.0
+
 nltk==3.2.5
+
 opencv-python
+
 numpy==1.13.1
+
 h5py==2.7.1
+
 matplotlib==2.0.2
+
 Pillow==4.3.0
+
 tqdm==4.17.1
+
 scipy==1.0.0
 
 
@@ -43,6 +53,7 @@ cd scripts
 # Get the data and pretrained weights
 
 sh get_data.sh
+
 sh get_pretrained_model.sh
 
 
