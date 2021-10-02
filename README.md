@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 # Getting the data, 1,700 images, 342mb
 
-git clone https://github.com/ashnkumar/sketch-code.git
+
 
 cd sketch-code
 
